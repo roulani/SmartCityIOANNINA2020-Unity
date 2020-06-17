@@ -7,3 +7,6 @@ Smart Cities IOANNINA2020 Interactive Intervention - Project for "Human - Comput
 2. Open project with Unity.
 3. Drag and drop all scenes into the left side (Hierarchy).
 4. Click File -> Build and Run (Ctrl + B).
+
+
+# You can find a video presentation HERE: https://www.dropbox.com/s/fk8407hja8zdi2a/AAYUnity%20video.rar?dl=0
